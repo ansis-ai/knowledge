@@ -1,6 +1,6 @@
 [project]
 name = "odoo-addons-oca-knowledge"
-version = "17.0.20250124.0"
+version = "17.0.20250124.1"
 dependencies = [
     "odoo-addon-document_knowledge>=17.0dev,<17.1dev",
     "odoo-addon-document_page>=17.0dev,<17.1dev",
@@ -8,6 +8,7 @@ dependencies = [
     "odoo-addon-document_page_approval>=17.0dev,<17.1dev",
     "odoo-addon-document_page_group>=17.0dev,<17.1dev",
     "odoo-addon-document_page_partner>=17.0dev,<17.1dev",
+    "odoo-addon-document_page_project>=17.0dev,<17.1dev",
     "odoo-addon-document_page_tag>=17.0dev,<17.1dev",
     "odoo-addon-document_url>=17.0dev,<17.1dev",
 ]
